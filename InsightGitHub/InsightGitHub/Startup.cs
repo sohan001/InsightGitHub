@@ -13,6 +13,7 @@ namespace InsightGitHub
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            // Making some changes on code in Master
         }
     }
 }
