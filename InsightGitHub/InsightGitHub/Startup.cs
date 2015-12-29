@@ -15,6 +15,7 @@ namespace InsightGitHub
             ConfigureAuth(app);
             // Making some changes on code in Master
             // This line is edited by  sohan's account
+            // This line is edited by  deepak's account
         }
     }
 }
